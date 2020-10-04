@@ -4,6 +4,7 @@ function generateMarkdown(data) {
     ## ${data.title}
     ${data.license}
 
+
     ## Description:
     ${data.description}
 
@@ -21,6 +22,12 @@ function generateMarkdown(data) {
     ${data.usage}
 
     ## License:
+    mit 
+    apache 2.0 
+    ![GitHub license](https://img.shields.io/badge/license-Apache%202-blue)
+    gpl 3.0
+    bsd 3
+    none
 
     ## Contributing:
     ${data.guidelines}
