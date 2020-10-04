@@ -1,32 +1,31 @@
+## 
+![GitHub license](https://img.shields.io/badge/license-Apache-green)
 
-    ## readme
-    
+## Description:
 
-    ## Description:
-    it's a readme
 
-    ## Table of Contents:
-    * .[Installation](#installation)
-    * .[Usage](#usage)
-    * .[License](#license)
-    * .[Contributing](#contributing)
-    * .[Tests](#tests)
+## Table of Contents:
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
 
-    ## Installation:
-    be careful
+## Installation:
 
-    ## Usage:
-    ditoo
 
-    ## License:
+## Usage:
 
-    ## Contributing:
-    ditoo
 
-    ## Tests:
-    ditto
+## License:
+Apache
 
-    ## Questions:
-    If you have any questions, feel free to look up undefined at .[https://github.com/undefined/]
-    or email at anance
-  
+## Contributing:
+
+
+## Tests:
+
+
+## Questions:
+If you have any questions, feel free to look up  at https://github.com/
+or email at 
